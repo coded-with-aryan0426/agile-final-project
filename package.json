@@ -1,0 +1,19 @@
+{
+  "name": "agile-final-project",
+  "version": "1.0.0",
+  "description": "## Overview This is a backend project for managing a product catalog for an e-commerce website. The application supports creating, retrieving, updating, deleting, liking, disliking, listing, and querying products.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
