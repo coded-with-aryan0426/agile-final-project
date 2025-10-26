@@ -26,7 +26,6 @@ Use the user stories defined in `USER_STORIES.md` to create 10 GitHub issues. He
 4. Add appropriate labels:
    - Issues 1-9: Add `enhancement` label
    - Issue 10: Add both `enhancement` and `technical debt` labels
-   - Issue 11: Add both `enhancement` and `technical debt` labels
 5. Click **Submit new issue**
 
 ### Quick Reference for Issues:
@@ -42,8 +41,7 @@ Use the user stories defined in `USER_STORIES.md` to create 10 GitHub issues. He
 | 7 | Implement Product Dislike Functionality | enhancement |
 | 8 | Implement Product Query and Filter Functionality | enhancement |
 | 9 | Implement Product Search Functionality | enhancement |
-| 10 | Configure Cloud Hosting and Deployment | enhancement, technical debt |
-| 11 | Implement Automated Deployment Pipeline | enhancement, technical debt |
+| 10 | Configure Cloud Hosting and Automated Deployment | enhancement, technical debt |
 
 ## Step 3: Create Kanban Board
 

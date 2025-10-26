@@ -137,27 +137,16 @@ As a **customer**, I need **to search for products by name or description**, so 
 
 ---
 
-## Issue 10: Cloud Deployment Setup
-**Title:** Configure Cloud Hosting and Deployment
+## Issue 10: Cloud Deployment and CI/CD Setup
+**Title:** Configure Cloud Hosting and Automated Deployment
 **Body:**
-As a **DevOps engineer**, I need **to deploy the application to a cloud platform**, so that **the API is accessible to users and can scale based on demand**.
+As a **DevOps engineer**, I need **to deploy the application to a cloud platform with automated CI/CD pipeline**, so that **the API is accessible to users, can scale based on demand, and new features are deployed quickly and reliably**.
 
 **Acceptance Criteria:**
 - Application deployed to cloud platform (Heroku, AWS, or GCP)
 - Environment variables configured
 - Health check endpoint functional
 - Deployment documentation created
-
-**Labels:** enhancement, technical debt
-
----
-
-## Issue 11: CI/CD Pipeline Setup
-**Title:** Implement Automated Deployment Pipeline
-**Body:**
-As a **DevOps engineer**, I need **automated testing and deployment on code changes**, so that **new features and fixes are deployed quickly and reliably**.
-
-**Acceptance Criteria:**
 - GitHub Actions workflow created
 - Automated tests run on pull requests
 - Automatic deployment on merge to main
